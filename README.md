@@ -5,4 +5,4 @@ WaterWave
   ![演示图片][1]
 
 
-  [1]: http://code4app.qiniudn.com/photo/537f2cb0933bf070748b4ea0_1.gif
+  [1]: demo.gif
